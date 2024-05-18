@@ -4,3 +4,8 @@ __pycache__
 .DS_Store
 .idea
 /C1/W2/assignment/data/mnist.npz
+/C1/W4/ungraded_labs/horse-or-human/
+/C1/W4/ungraded_labs/validation-horse-or-human/
+/C1/W4/ungraded_labs/horse-or-human.zip
+/C1/W4/ungraded_labs/validation-horse-or-human.zip
+/C1/W3/assignment/data/
