@@ -19,3 +19,6 @@ __pycache__
 /C3/W1/assignment/data/
 /C2/W4/assignment/sign_mnist_test.csv
 /C2/W4/assignment/sign_mnist_train.csv
+/C3/W2/ungraded_labs/meta.tsv
+/C3/W2/ungraded_labs/sarcasm.json
+/C3/W2/ungraded_labs/vecs.tsv
